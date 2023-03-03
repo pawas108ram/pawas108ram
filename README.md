@@ -1,7 +1,7 @@
 <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner" width="1200">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQyMjlmNjIwMjU1MTJjMjQzYzg2NTEzM2JiNDBkNmFmMjA2ZDhiOCZjdD1n/26u4cqVR8dsmedTJ6/giphy.gif" height="60">, I'm Pawas Goyal</h1>
 <h3 align="center">A passionate frontend Developer from Delhi ,India</h3>
-<img align="right" alt="Coding" width="700"
+<img align="right" alt="Coding" width="650"
       src="https://www.digitalsolutionservices.com/img/services/website1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawas108ram&label=Profile%20views&color=0e75b6&style=flat" alt="pawas108ram" /> </p>
